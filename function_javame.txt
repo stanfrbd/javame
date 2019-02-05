@@ -1,3 +1,5 @@
+# add this to .bashrc or .bash_profile or .profile
+
 function javame {
 if [ $# -eq 0 ]
 then
