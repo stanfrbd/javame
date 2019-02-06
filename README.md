@@ -1,6 +1,6 @@
 # javame
 
-Javame : script to create Eclipse Java projects from command line.
+Javame: script to create Eclipse Java projects from command line.
 
 # To begin :
 
