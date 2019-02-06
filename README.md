@@ -8,6 +8,11 @@ chmod +x javame.sh
 . javame.sh -h
 ./javame.sh --help
 
+# Note
+
+The first version is made for Linux Subsystem on a Microsoft Windows PC.
+The Unix/Linux version is made for Linux or MacOS.
+
 # Use from bash as a command
 
 If you want to execute this script with the command "javame", 
