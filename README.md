@@ -13,3 +13,6 @@ chmod +x javame.sh
 If you want to execute this script with the command "javame", 
 copy the content of "function_javame.txt" in the .bashrc or .bash_profile or .profile.
 
+# Issues with -bash: $'\r': command not found
+
+Please go to Wiki.
