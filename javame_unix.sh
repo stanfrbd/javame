@@ -55,7 +55,7 @@ then
   echo "  Created class src/$3.java"
 elif [ $1 == "build" ]
 then
-  javac.exe -d bin/ src/*.java
+  javac -d bin/ src/*.java
 elif [ $1 == "run" ]
 then
   javac -d bin/ src/*.java && java -cp bin/ $(cd bin ; ls | cut -d "." -f1)
