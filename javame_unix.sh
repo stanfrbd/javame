@@ -58,7 +58,7 @@ then
   javac -d bin/ src/*.java
 elif [ $1 == "run" ] && [ -z "$2" ]
 then
-  javac.exe -d bin/ src/*.java && java.exe -cp bin/ $(cd bin ; ls | cut -d "." -f1)
+  javac -d bin/ src/*.java && java -cp bin/ $(cd bin ; ls | cut -d "." -f1)
   # avoir le nom de la classe principale en retirant le .java
 elif [ $1 == "run" ] && [ "$2" != "." ]
 then
