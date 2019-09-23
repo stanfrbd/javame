@@ -2,7 +2,7 @@
 
 Javame: script to create Eclipse Java projects from command line.
 
-# To begin :
+# To start with:
 
 chmod +x javame.sh <br>
 . javame.sh -h <br>
