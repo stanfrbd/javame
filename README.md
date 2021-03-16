@@ -9,6 +9,8 @@ chmod +x javame.sh
 . javame.sh -h
 ./javame.sh --help
 ```
+![image](https://user-images.githubusercontent.com/44167150/111287958-05e93600-8644-11eb-9ba3-750124998eb5.png)
+
 # Note
 
 The first version is made for Linux Subsystem on a Microsoft Windows PC.
